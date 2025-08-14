@@ -1,5 +1,8 @@
 # Leave Management System
 
+ **GitHub Repository:**  
+[github.com/NiketNannavare/Leave_Management_System](https://github.com/NiketNannavare/Leave_Management_System)
+
 ## 📌 Overview
 
 A Mini Leave Management System (MVP) built for assignment purposes.
@@ -152,4 +155,5 @@ A Mini Leave Management System (MVP) built for assignment purposes.
     "status": "pending"
   }
 ]
+
 ```
